@@ -1,3 +1,0 @@
-return {
-	extends = 'invalid class',
-}
