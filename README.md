@@ -1,2 +1,5 @@
 # CattleForge
 A ModLoader/Modable Version of Crazy Cattle 3D
+
+## NOTE:
+I DO NOT OWN THE GAME I ONLY CREATED A MODABLE VERSION OF IT. FOR ANY ISSUE PLEASE ISSUE IT

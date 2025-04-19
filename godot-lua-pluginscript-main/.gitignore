@@ -1,0 +1,7 @@
+logs/
+build/
+.xmake/
+.cache/
+/docs/
+plugin/luasrcdiet/*
+!plugin/luasrcdiet/.gdignore

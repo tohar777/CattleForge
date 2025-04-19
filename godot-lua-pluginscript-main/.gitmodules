@@ -1,0 +1,18 @@
+[submodule "lib/godot-headers"]
+	path = lib/godot-headers
+	url = https://github.com/godotengine/godot-headers.git
+[submodule "lib/high-level-gdnative"]
+	path = lib/high-level-gdnative
+	url = https://github.com/gilzoide/high-level-gdnative.git
+[submodule "lib/luajit"]
+	path = lib/luajit
+	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "lib/luasrcdiet"]
+	path = lib/luasrcdiet
+	url = https://github.com/jirutka/luasrcdiet.git
+[submodule "lib/luaunit"]
+	path = lib/luaunit
+	url = https://github.com/bluebird75/luaunit.git
+[submodule "lib/debugger_lua"]
+	path = lib/debugger_lua
+	url = https://github.com/slembcke/debugger.lua.git
