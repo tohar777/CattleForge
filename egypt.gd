@@ -6,6 +6,6 @@ func modeLoader():
 
 
 func _ready():
-	modLoader()
+	#modLoader()
 	Global.currentlevel = "egypt"
 	
